@@ -20,7 +20,7 @@ out meta;
 
 The data was then loaded into JOSM. 
 
-Windows: tag, filter, selection
+JOSM Windows turned on: tag, filter, selection
 
 The filter window was turned on and the filter string was entered: Pleiades 2015-04-27, CNES, Airbus DS
 
