@@ -16,6 +16,8 @@ out meta;
 out meta;
 ```
 
+![overpass_idp_site_query](https://cloud.githubusercontent.com/assets/2665840/7503308/1b9fe308-f410-11e4-895d-b3dcc1e36132.PNG)
+
 The data was then loaded into JOSM. 
 
 Windows: tag, filter, selection
