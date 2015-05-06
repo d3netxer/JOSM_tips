@@ -4,7 +4,7 @@ Here is an example. During the HOT Nepal Crisis response, a project was being se
 
 The first step was querying in overpass turbo to get all IDP sites in central Kathmandu. Here is the query used:
 
-[code]
+```
 /*
 idp camps kathmandu
 */
@@ -14,7 +14,7 @@ way[~"idp:"~"spontaneous_camp"]({{bbox}});
 out meta;
 >;
 out meta;
-[code]
+```
 
 The data was then loaded into JOSM. 
 
